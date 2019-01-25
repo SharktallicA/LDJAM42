@@ -1,7 +1,7 @@
 # Refugee Rescue!
 Our submission for the 42nd Ludum Dare game jam! Refugee Rescue! is a sea rescue and resource management game that puts you in command of a cargo ship and are enlisted to rescue refugees stranded on various islands in the vicinity of your new homeport. The game was developed between 10th to 13th August 2018.
 # Team
-* Gregory Lewis (@JakedPotato)
+* Gregory Neale (@JakedPotato)
 * James Hopkins (@JamesHopkins97)
 * Khalid Ali (@SharktallicA)
 * William Akins (@WilliamAkins)
